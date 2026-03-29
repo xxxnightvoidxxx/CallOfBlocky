@@ -63,7 +63,7 @@ echo "  R - Restart after match ends"
 echo "========================================="
 echo ""
 
-python3 call_of_blocky.py
+python3 cob.py
 
 # Deactivate virtual environment on exit
 deactivate
