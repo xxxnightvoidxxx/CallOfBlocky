@@ -1,9 +1,9 @@
 # CallOfBlocky
 Game
 
-python3 pip install pygame
-python3 cob.py
+New release is out!
 
-troubleshoot = Google it
+Check the new release on the right!!
+
 
 
